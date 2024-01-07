@@ -1,0 +1,21 @@
+.row {
+    display: flex;
+ margin: auto;
+    border: 5px solid black;
+    padding: 20px 20px 20px 30px;
+    border-radius: 10px;
+background-image: linear-gradient(to right top, #e930d6, #fb00b0, #ff008a, #ff0066, #f70044, #f73532, #f3501f, #ed6600, #f18f00, #f1b408, #edd834, #e6fb5f);}
+.col-1 {
+    width: 30%;
+    text-align: end;
+    margin: auto ;
+}
+.col-2 {
+width: 80% ;
+padding: 30px;
+}
+.content-style{
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Rubik Broken Fax', cursive;
+}
